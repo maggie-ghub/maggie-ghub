@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mearg Gebremedhn
 - 👀 I’m interested in Full Stack Web App and Mobile App development
-- 🌱 I’m currently learning Flutter and Node Js
+- 🌱 I’m currently learning Flutter and Django
 - 💞️ I’m looking to collaborate on open-source projects or team-based development on web and mobile apps
 - 📫 How to reach me meagmage@gmail.com
 - 😄 Pronouns: He/Him
